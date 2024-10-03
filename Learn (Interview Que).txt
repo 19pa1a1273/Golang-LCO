@@ -1,0 +1,24 @@
+Learn These:
+
+Gopath, Map, Slice vs Array, Packages
+Declaring Variable
+
+
+method overloading in golang
+interface in golang
+imports and non imports in golang
+go routine
+what do you mean by concurrently in golang
+what is the difference between concurrency and parallelism running functions
+what do you mean by channels in golang
+
+Variatic function (...)
+Multiple types of channel describe what are those
+
+--> Continue it From 21:00
+https://www.youtube.com/watch?v=01ya6SkN59Y 
+
+
+//
+
+Consistency modes in golang

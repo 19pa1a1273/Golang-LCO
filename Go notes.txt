@@ -1,0 +1,22 @@
+
+gopath:
+
+Command			Output
+
+
+go env GOPATH --> C:\Users\91939\go
+
+lexer:
+* Job of lexer is to simply understand that you are following the grammar of the language so that syntax is correct and variables are defined properly and before the pre-compilation of the language happens the lexer goes in and try to say that hey are you following the rules or not.
+
+variables:
+* go run main.go and it works fine but the reason why I told you to go ahead and do the initialization of the modules and everything because that is the way how we need to go for the production ready stuff
+* So we won't be taking any shortcut for every single folder that we're going to create we're gonna follow the same stuff. So, we're going to simply say go mod init variables
+
+*byte alias for unit8
+*rune alias for int32
+
+*If we not initialize any value to a variable it does not store any garbage value in it. It show Zero(0) in case of int.
+*For String it is empty
+
+Conversions in GoLang:
